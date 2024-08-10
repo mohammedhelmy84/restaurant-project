@@ -1,0 +1,189 @@
+.numbers{
+    background-color: #de4e1e;
+    padding:25px 0;
+    max-width:100%;
+    height:auto;
+    text-align:center;
+    overflow:hidden;
+}
+
+.numbers .row{
+    margin:10px 0;;
+}
+
+.numbers h2{
+ color:#fff;
+ font-weight: bold;
+ text-transform: uppercase;
+}
+
+.numbers h6{
+    color:#fff;
+    font-weight: bold;
+    letter-spacing:1px;
+}
+
+/* middlesection */
+.middlesection{
+ background-color: transparent;
+ max-width: 100%;
+ height: auto;
+ border:2px solid #de4e1e;
+ overflow: hidden;
+}
+
+.middlesection h2{
+ text-shadow: 2px 2px 5px brown;
+}
+
+
+.middlesection a{
+ text-decoration: none;
+}
+
+
+#imgmiddle{
+    max-width: 100% !important;
+    border-radius:25px 0 25px 0px;
+}
+
+/* bgdiv */
+.bgdiv{
+    background-image: linear-gradient(
+        to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)
+    ), url(../../assets/header.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.bgdiv .row{
+    height:200px;
+    text-align: center;
+}
+
+.bgdiv h3{
+    font-size: 35px;
+    color: #fff;
+    font-weight: bold;
+    letter-spacing:1px;
+    margin-top: 50px;
+}
+
+/*orderdiv*/
+.orderdiv h3{
+    text-shadow: 2px 2px  rgb(122, 102, 211);
+    font-size: 35px;
+    font-weight: bold;
+    color:#d81fa0;
+}
+
+.orderdiv-1,.orderdiv-2,.orderdiv-3{
+    width:30%;
+    height:auto;
+    margin-right: 5px;
+    border-radius:25px;
+    overflow: hidden;
+}
+
+.orderdiv img{
+    width:100% !important;
+    height:250px !important;
+}
+
+.orderdiv-1 h4, .orderdiv-2 h4, .orderdiv-3 h4{
+    color: rgb(0, 0, 0);
+    font-weight:bold;
+    font-size:25px;
+    margin-top: 2px !important;
+    letter-spacing:1px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+
+.orderdiv-1 p, .orderdiv-2 p, .orderdiv-3 p{
+    color: rgb(77, 71, 71);
+    font-weight:bold;
+    font-size:18px;
+    margin-top: 2px !important;
+    text-align: center;
+}
+
+.orderdiv-1 button, .orderdiv-2 button, .orderdiv-3 button{
+  margin:2px auto 2px auto;
+  display: block;
+  background-color: #de4e1e;
+  color:#fff;  
+  font-weight: bold;
+  padding: 10px;
+  border: 0;
+  border-radius: 10px;
+}
+
+.orderdiv img:hover{
+    /* background: rgba(0, 0, 0, 0.5); */
+    opacity: 0.5;
+    transition: 1s;
+}
+
+.orderdiv button:hover{
+    /* background: rgba(0, 0, 0, 0.5); */
+    opacity: 0.5;
+    transition: 1s;
+}
+
+
+/*reviewsdiv*/
+.reviewsdiv{
+    height:auto;
+    background-color: orangered;
+}
+
+.reviewsdiv h3{
+    color:rgb(255, 255, 255);
+    font-weight:bold;
+    padding-top: 100px;
+    margin-bottom: 75px;
+    text-align: center;
+}
+
+.reviewsdiv p{
+    color:black;
+
+}
+
+
+.slides{
+  background-color:white !important;
+  width:85%;
+  height:500px;
+  border:2px solid lightgray;
+  border-radius:5px;
+  margin-right: auto;
+  margin-left: auto;
+  padding:10px;
+
+}
+
+.slides img{
+    margin-top: 50px;
+    margin-bottom: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    
+}
+
+.carousel-control-prev-icon{
+    background-color:red !important;
+}
+
+.carousel-control-next-icon{
+    background-color:red !important;
+}
+
+.carousel-indicators button{
+    background-color:red !important;
+    
+}
