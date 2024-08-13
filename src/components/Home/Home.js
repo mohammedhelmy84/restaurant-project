@@ -1,4 +1,5 @@
 import React, { Fragment } from "react";
+import {useState} from 'react';
 import Header from './Header.js';
 import imgmiddle from './../../assets/imgmiddle.jpg';
 import juice from './../../assets/juice.JPG';
@@ -10,6 +11,7 @@ import './Home.css';
 
 
 const Home = ()=>{
+
   return(
     <Fragment> 
        <Header/>
@@ -60,7 +62,7 @@ const Home = ()=>{
              </div>
           </div>
        </section>
-       <section className="orderdiv" id="food_link">
+     <section className="orderdiv" id="food_link">
          <div className="container bg-light">
              <div className="row text-center py-5">
                   <h3>Our Drinks</h3>
@@ -88,6 +90,7 @@ const Home = ()=>{
              </div>
           </div>
        </section>
+ 
 
     </Fragment>
     

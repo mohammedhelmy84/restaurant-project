@@ -36,9 +36,7 @@ export default function Slider(){
       <img  src={tea} alt="{image}" width="75px" height="75px"/>
         <Carousel.Caption>
    
-          <p>
-            Praesent commodo cursus magna, vel scelerisque nisl consectetur  Praesent commodo cursus magna, vel scelerisque nisl consectetur  Praesent commodo cursus magna, vel scelerisque nisl consectetur.
-          </p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>
