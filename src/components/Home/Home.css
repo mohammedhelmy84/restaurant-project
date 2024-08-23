@@ -192,6 +192,24 @@
     
 }
 
+.totop{
+    position: fixed;
+    bottom:0;
+    left:0;
+    background-color: orangered !important;
+    z-index: 10;
+    border:1px solid blue;
+    border-radius: 25%;
+    padding:10px;
+}
+
+.totop a{
+ text-decoration: underline;
+ color:white;
+ font-size:16px;
+ font-weight:bold;
+}
+
 @media only screen and (max-width: 600px) {
 .bgdiv h3{
   font-size:25px !important;

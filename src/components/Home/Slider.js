@@ -10,7 +10,7 @@ import './Home.css';
 
 export default function Slider(){
   return (
-    <section className='reviewsdiv'>
+    <section className='reviewsdiv py-3'>
       <div className="container">
       <h3>Our Cusomers</h3>
       <div className='slides'>

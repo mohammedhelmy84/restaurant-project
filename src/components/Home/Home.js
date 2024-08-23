@@ -88,9 +88,51 @@ const Home = ()=>{
                <button>Order Now</button>
                </div>
              </div>
+             <div className="row my-2">
+               <div className="col-sm  my-2 orderdiv-1">
+                <img className="img-fluid p-2" src={juice} alt="juice"/>
+                <h4>juice</h4>
+                <p>25EGP  <del>30EGP</del></p>
+                <button>Order Now</button>
+               </div>
+               <div className="col-sm  my-2 orderdiv-2">
+               <img className="img-fluid p-2" src={coffee} alt="juice"/>
+                <h4>coffee</h4>
+                <p>15EGP  <del>20EGP</del></p>
+                <button>Order Now</button>
+               </div>
+               <div className="col-sm  my-2 orderdiv-3">
+               <img className="img-fluid p-2" src={tea} alt="juice"/>
+               <h4>tea</h4>
+               <p>10EGP  <del>15EGP</del></p>
+               <button>Order Now</button>
+               </div>
+             </div>
+             <div className="row my-2">
+               <div className="col-sm  my-2 orderdiv-1">
+                <img className="img-fluid p-2" src={juice} alt="juice"/>
+                <h4>juice</h4>
+                <p>25EGP  <del>30EGP</del></p>
+                <button>Order Now</button>
+               </div>
+               <div className="col-sm  my-2 orderdiv-2">
+               <img className="img-fluid p-2" src={coffee} alt="juice"/>
+                <h4>coffee</h4>
+                <p>15EGP  <del>20EGP</del></p>
+                <button>Order Now</button>
+               </div>
+               <div className="col-sm  my-2 orderdiv-3">
+               <img className="img-fluid p-2" src={tea} alt="juice"/>
+               <h4>tea</h4>
+               <p>10EGP  <del>15EGP</del></p>
+               <button>Order Now</button>
+               </div>
+             </div>
           </div>
        </section>
- 
+      <div className="totop">
+         <a href="">Up<i class="las la-arrow-up"></i></a>
+      </div>
 
     </Fragment>
     

@@ -1,0 +1,27 @@
+.footer{
+   
+}
+
+.copyright{
+    background-color: #701603 !important;
+}
+
+.copyright span{
+    color:white !important;
+}
+
+.footer i{
+    font-size: 32px;
+}
+
+.footer .facebook{
+   color: dodgerblue;
+}
+
+.footer .twitter{
+    color: cyan;
+ }
+
+ .footer .youtube{
+   color: red;
+ }
