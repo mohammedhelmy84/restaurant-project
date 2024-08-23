@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/restaurant-project/static/css/main.033ba073.css",
-    "main.js": "/restaurant-project/static/js/main.ee2d9254.js",
+    "main.css": "/restaurant-project/static/css/main.35f59ca3.css",
+    "main.js": "/restaurant-project/static/js/main.db96ef19.js",
     "static/js/453.c525b3b7.chunk.js": "/restaurant-project/static/js/453.c525b3b7.chunk.js",
     "static/media/customers.jpg": "/restaurant-project/static/media/customers.a169031870ed4acaad51.jpg",
     "static/media/coffee.jpg": "/restaurant-project/static/media/coffee.2d692e04a8e9626507f0.jpg",
@@ -11,12 +11,12 @@
     "static/media/logo.png": "/restaurant-project/static/media/logo.a0ee3a5bc11cf433f64b.png",
     "static/media/juice.JPG": "/restaurant-project/static/media/juice.fc250865404aa85244af.JPG",
     "index.html": "/restaurant-project/index.html",
-    "main.033ba073.css.map": "/restaurant-project/static/css/main.033ba073.css.map",
-    "main.ee2d9254.js.map": "/restaurant-project/static/js/main.ee2d9254.js.map",
+    "main.35f59ca3.css.map": "/restaurant-project/static/css/main.35f59ca3.css.map",
+    "main.db96ef19.js.map": "/restaurant-project/static/js/main.db96ef19.js.map",
     "453.c525b3b7.chunk.js.map": "/restaurant-project/static/js/453.c525b3b7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.033ba073.css",
-    "static/js/main.ee2d9254.js"
+    "static/css/main.35f59ca3.css",
+    "static/js/main.db96ef19.js"
   ]
 }
